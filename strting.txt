@@ -1,0 +1,119 @@
+list of things that are needed for the new linux installation.
+
+pip install pyinstaller\
+
+pyinstaller
+cd yt-dlp-gui/app
+pyinstaller --name=yt-dlp-gui --clean -y app.py
+sudo apt update\
+sudo apt install libxcb-xinerama0 libxcb-xkb1 libxcb-xinerama0-dev libxkbcommon-x11-0 libxkbcommon-x11-dev\
+sudo apt install libxcb-cursor0\
+
+sudo apt install qt6-base-dev qt6-base-static\
+
+sudo apt install qt6-base-dev\
+
+sudo apt install libqt6core6 libqt6gui6 libqt6widgets6\
+
+sudo apt install qt5-default qtbase5-dev libqt5x11extras5 libqt5gui5 libqt5widgets5\
+
+sudo apt update\
+sudo apt install qtbase5-dev libqt5gui5 libqt5widgets5 libqt5x11extras5\
+
+ls /usr/lib/x86_64-linux-gnu/qt5/plugins/platforms\
+
+export QT_QPA_PLATFORM_PLUGIN_PATH=/usr/lib/x86_64-linux-gnu/qt5/plugins\
+
+chmod +x CiscoPacketTracer822_amd64_signed.deb
+sudo dpkg -i ./CiscoPacketTracer822_amd64_signed.deb
+packettracer
+node --
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+nvm
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"\
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+source ./zshrc
+source /.zshrc
+source .zshrc
+nvm -c
+nvm -v
+nvm install node
+nvm install
+nvm install vX.Y.Z\
+
+nvm install latest\
+
+nvm --v
+exit
+sudo killall packagekitd\
+
+sudo apt --fix-broken install\
+
+sudo apt install dialog python3-lxml python3-evdev gettext libratbag-tools\
+
+sudo apt-add-repository ppa:libratbag-piper/piper-libratbag-git\
+sudo apt update\
+sudo apt install piper ratbagd\
+
+sudo apt install nodejs npm\
+
+node -v\
+
+sudo apt update\
+sudo apt install snapd
+sudo snap install riseup-vpn --classic\
+
+riseup-vpn\
+
+sudo systemctl status snapd\
+
+riseup-vpn --debug\
+
+sudo snap refresh
+sudo snap remove riseup-vpn\
+sudo snap install riseup-vpn --classic
+riseup-vpn
+riseup-vpn.
+riseup-vpn.launcher
+cd Desktop/coding
+node apiFetch
+node callBackHell.js
+node --v
+node --version
+nvm ls-remote\
+
+nvm install v20.16.0\
+
+node -v
+cd Alpha/current
+node async1.js
+node checkLength.js
+node apiFetch1.js
+cd yt-dlp-gui/app/
+cd ui
+s
+yt-dlp-gui
+cd ..
+cd
+./dist/yt-dlp-gui/yt-dlp-gui\
+
+cd yt-dlp-gui/yt-dlp-dui
+ls
+cd yt-dlp-gui
+./dist/yt-dlp-gui\
+
+history
+~./dist/yt-dlp-gui\
+~
+echo $HISTSIZE\
+echo $HISTFILESIZE\
+
+nv
+piper
+e
+: 1723115933:0;cd yt-dlp-gui/app
+: 1723115935:0;pyinstaller --name=yt-dlp-gui --clean -y app.py\
+
+: 1723115959:0;./dist/yt-dlp-gui/yt-dlp-gui\
+
+
