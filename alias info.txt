@@ -1,0 +1,6 @@
+zsh command alias shouldn't have space in the command.
+
+alias e="exit"
+-- see no space after e.
+
+
