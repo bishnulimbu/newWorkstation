@@ -1,0 +1,5 @@
+dbus-send --session --dest=com.System76.PopShell --type=method_call /com/System76/PopShell com.System76.PopShell.FocusDown
+
+also 
+xinput list           xinput disable [list]   xinput able [list]
+-- for disabling and enabling devices 
