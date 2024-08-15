@@ -1,0 +1,2 @@
+first super+1 2 3 can be enabled by disabling cosmic dock and installing extension dash-to-dock or any other software like plank.
+disabling COSMIC X11 gesture hides the desktop folders.
