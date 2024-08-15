@@ -1,0 +1,1 @@
+x-clip installation for terminal based copy and pasting (clipboard)
