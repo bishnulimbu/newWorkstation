@@ -1,3 +1,0 @@
-xdotool search --onlyvisible --class "<--commandhere-->" windowactivate
-
-//Google-chrome
