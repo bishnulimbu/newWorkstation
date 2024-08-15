@@ -1,0 +1,22 @@
+ctrl + 1 2 3 .. for the shortcut of chorme, brave, terminal.
+
+ctrl \ for the settings
+ctrl / for the search/workspace menu
+ctrl f for the file explorer.
+
+xdotool search --onlyvisible --class "<--commandhere-->" windowactivate
+
+//Google-chrome
+
+zsh command alias shouldn't have space in the command.
+
+alias e="exit"
+-- see no space after e.
+
+dbus-send --session --dest=com.System76.PopShell --type=method_call /com/System76/PopShell com.System76.PopShell.FocusDown
+
+also 
+xinput list           xinput disable [list]   xinput able [list]
+-- for disabling and enabling devices 
+
+
